@@ -1,0 +1,54 @@
+@import "variables";
+@import "globals";
+
+main {
+    border-radius: 0.625rem;
+    margin: 0 auto;
+    width: fit-content;
+    overflow: hidden;
+
+    @include desktop {
+        display: flex;
+        max-width: 56.25rem;
+    };
+
+    .card {
+        padding: 2rem;
+        width: 15.625rem;
+
+        @include desktop {
+            width: auto;
+            padding: 3rem;
+        };
+
+        img {
+            margin-bottom: 2rem;
+
+            @include desktop {
+                margin-bottom: 2rem
+            };
+        }
+    
+        .title {
+            font-size: 1.75rem;
+            font-family: 'Big Shoulders Display', cursive;
+            font-weight: 700;
+            text-transform: uppercase;
+
+            @include desktop {
+                font-size: 2.5rem;
+            };
+        }
+
+        .text {
+            font-size: 0.9375rem;
+            line-height: 1.5;
+            margin: 2rem 0;
+
+            @include desktop {
+                margin-top: 2rem;
+                margin-bottom: 5rem;
+            };
+        }
+    }
+}
