@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/itsmusa)
+- Solution URL: [3-column-preview-card-component](https://github.com/itsmusa/3-column-preview-card-component
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
