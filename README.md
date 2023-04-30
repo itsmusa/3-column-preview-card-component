@@ -45,4 +45,3 @@ Users should be able to:
 
 - Website - [Musa Magwaza](https://www.github.com/itsmusa)
 - Frontend Mentor - [@itsmusa](https://www.frontendmentor.io/profile/itsmusa)
-- Twitter - [@flawedgoat](https://www.twitter.com/flawedgoat)
